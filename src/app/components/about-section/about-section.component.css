@@ -1,0 +1,28 @@
+.bg-sm-card{
+  background-color: rgba(248, 163, 0, 0.7);
+  width: 31%;
+  height: 3.3rem;
+  margin: 0.5rem;
+  font-size: 11px;
+  padding: 0.4rem;
+}
+.bg-md-btn{
+  background-color: rgba(248, 163, 0, 1);
+}
+.row-cols-3>* {
+  flex: 0 0 auto;
+  width: 31%;
+}
+.card{
+  --bs-card-border-width: 0
+}
+.bg-btn{
+  background-color: rgba(248, 163, 0, 0.7);
+}
+.bg-sm-blue-card{
+  background-color: rgba(39, 177, 255, 0.14);
+  width: 5.6rem;
+  height: 3.3rem;
+  font-size: 11px;
+  padding: 0.6rem;
+}
